@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7897a458-0d00-4752-8603-43899ecf1619" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.9.1-preview.15/Unity.Entities/ComponentSystemBase.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.9.1-preview.15/Unity.Entities/Types/TypeManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Software/App/Scripts/MonoBehaviour/Moodel Interaction/AssignColorsToEntity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.9.1-preview.15/Unity.Entities/JobComponentSystem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Software/App/Scripts/MonoBehaviour/Moodel Interaction/AddComponentToEntity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.universal@7.1.8/Runtime/UniversalRenderPipeline.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.9.1-preview.15/Unity.Entities/IJobChunk.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/94C5F4C3-8CDC-42D2-B006-F8BADEF04394/d5/ed2362a6/MeshRenderer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Software/App/Scripts/MonoBehaviour/Moodel Interaction/CreateDuplicateOfAnEntity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.9.1-preview.15/Unity.Transforms/Translation.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Documents/GitHub/Code-Review/Scripts/Score.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.9.1-preview.15/Unity.Entities/EntityManagerAccessComponentData.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Software/App/Scripts/MonoBehaviour/Tools/ChangeScenes.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.9.1-preview.15/Unity.Transforms/LocalToWorld.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Software/App/Scripts/MonoBehaviour/Tools/CameraScroll.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.rendering.hybrid@0.4.2-preview.16/Unity.Rendering.Hybrid/RenderMeshProxy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Software/App/Scripts/MonoBehaviour/Model SetUp/TransformObjectToEntity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Software/App/Scripts/DOTS/Tags/ObjectConvertedToEntity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Software/App/Scripts/DOTS/Ijob/CreateDuplicate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Software/App/Scripts/DOTS/Ijob/AssignMovementData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Software/App/Scripts/DOTS/JobComponentSytem/MoveMeshRenderer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Software/App/Scripts/DOTS/IcomponentData/MovementData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Software/App/Scripts/MonoBehaviour/Testing/ReferencesToObjects.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Software/App/Scripts/DOTS/Buffers/RenderMeshBufferElement.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/CreateEntity.cs" />
+        <option value="$PROJECT_DIR$/Assets/Spawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/ReferencesToObjects.cs" />
+        <option value="$PROJECT_DIR$/Assets/testMat.cs" />
+        <option value="$PROJECT_DIR$/Assets/ChangeMaterialSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Software/Scripts/DOTS/Buffers/RenderMeshBufferElement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Software/Scripts/Testing/ReferencesToObjects.cs" />
+        <option value="$PROJECT_DIR$/Assets/Software/Scripts/DOTS/IcomponentData/movementData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Software/Scripts/Testing/testMat.cs" />
+        <option value="$PROJECT_DIR$/Assets/Software/Scripts/Testing/testmovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Software/Scripts/DOTS/IcomponentData/MovementData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Software/Scripts/DOTS/Tags/ObjectConvertedToEntity.cs" />
+        <option value="$PROJECT_DIR$/Assets/Software/Scripts/Model SetUp/TransformObjectToEntity.cs" />
+        <option value="$PROJECT_DIR$/Assets/Software/Scripts/DOTS/Ijob/AddComponentToEntity.cs" />
+        <option value="$PROJECT_DIR$/Assets/Software/Scripts/MonoBehaviour/Testing/TestColor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Software/Scripts/DOTS/JobComponentSytem/ChangeMaterialSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Software/Scripts/DOTS/Ijob/CreateDuplicate.cs" />
+        <option value="$PROJECT_DIR$/Assets/Software/Scripts/MonoBehaviour/Moodel Interaction/CreateDuplicateOfAnEntity.cs" />
+        <option value="$PROJECT_DIR$/Assets/Software/Scripts/MonoBehaviour/Tools/CameraScroll.cs" />
+        <option value="$PROJECT_DIR$/Assets/Software/Scripts/DOTS/Ijob/AssignMovementData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Software/Scripts/DOTS/JobComponentSytem/MoveMeshRenderer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Software/Scripts/MonoBehaviour/Tools/ChangeScenes.cs" />
+        <option value="$PROJECT_DIR$/Assets/Software/Scripts/MonoBehaviour/Model SetUp/TransformObjectToEntity.cs" />
+        <option value="$PROJECT_DIR$/Assets/Software/App/Scripts/DOTS/Buffers/RenderMeshBufferElement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Software/App/Scripts/DOTS/IcomponentData/MovementData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Software/App/Scripts/DOTS/Ijob/CreateDuplicate.cs" />
+        <option value="$PROJECT_DIR$/Assets/Software/App/Scripts/DOTS/Tags/ObjectConvertedToEntity.cs" />
+        <option value="$PROJECT_DIR$/Assets/Software/App/Scripts/MonoBehaviour/Moodel Interaction/AssignColorsToEntity.cs" />
+        <option value="$PROJECT_DIR$/Assets/Software/App/Scripts/MonoBehaviour/Model SetUp/TransformObjectToEntity.cs" />
+        <option value="$PROJECT_DIR$/Assets/Software/App/Scripts/MonoBehaviour/Moodel Interaction/CreateDuplicateOfAnEntity.cs" />
+        <option value="$PROJECT_DIR$/Assets/Software/App/Scripts/MonoBehaviour/Tools/ChangeScenes.cs" />
+        <option value="$PROJECT_DIR$/Assets/Software/App/Scripts/MonoBehaviour/Testing/ReferencesToObjects.cs" />
+        <option value="$PROJECT_DIR$/Assets/Software/App/Scripts/MonoBehaviour/Testing/testMat.cs" />
+        <option value="$PROJECT_DIR$/Assets/Software/App/Scripts/MonoBehaviour/Testing/testmovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Software/App/Scripts/DOTS/JobComponentSytem/ChangeMaterialSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Software/App/Scripts/MonoBehaviour/Moodel Interaction/AddComponentToEntity.cs" />
+        <option value="$PROJECT_DIR$/Assets/Software/App/Scripts/DOTS/JobComponentSytem/MoveMeshRenderer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Software/App/Scripts/DOTS/Ijob/AssignMovementData.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1avYG5EIItf3jVOKrZQDrUPYd1B" />
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7897a458-0d00-4752-8603-43899ecf1619" name="Default Changelist" comment="" />
+      <created>1587617436700</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587617436700</updated>
+      <workItem from="1587617442704" duration="3660000" />
+      <workItem from="1587688954048" duration="13844000" />
+      <workItem from="1587773868050" duration="14668000" />
+      <workItem from="1587947580295" duration="6523000" />
+      <workItem from="1588031131777" duration="19962000" />
+      <workItem from="1588118217978" duration="14329000" />
+      <workItem from="1588205826287" duration="13668000" />
+      <workItem from="1588293289059" duration="10504000" />
+      <workItem from="1588979006158" duration="16709000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
